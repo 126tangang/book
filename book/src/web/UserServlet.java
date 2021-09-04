@@ -15,7 +15,7 @@ public class UserServlet extends BaseServlet {
 
 
     /**
-     * 实现登录请求。。。
+     * 实现登录请求。。。。
      *blalalala
      * @param req
      * @param resp
